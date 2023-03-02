@@ -3,6 +3,7 @@ kind: Deployment
 metadata:
   name: java-application
 spec:
+    replicas: 3
     selector:
     matchLabels:
       app: states
