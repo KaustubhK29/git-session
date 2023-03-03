@@ -11,5 +11,5 @@ metadata:
   name: argocd-server
 type: Opaque
 data:
-  ARGOCD_USERNAME: admin
-  ARGOCD_PASSWORD: Welcome2ibm
+  ARGOCD_USERNAME: YWRtaW4=
+  ARGOCD_PASSWORD: V2VsY29tZTJpYm0=
