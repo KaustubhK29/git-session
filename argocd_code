@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: argocd-server
+  name: argocd-env-configmap
 data:
   ARGOCD_SERVER: cluster-ip-of-argocd-server
 ---
